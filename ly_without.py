@@ -1,8 +1,9 @@
 #Catherine Hu
-#CS362 HW1 Question 4
+#CS362 HW3 Question 3
+#Without error handling
 
 #To run, type:
-#   python3 catherine_hu_hw1.py
+#   python3 ly_without.py
 
 def main():
     yearInput = int(input("Enter a year: "))
