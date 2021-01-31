@@ -1,8 +1,10 @@
 ## CS 362 HW3 Question 3: Version Control
 
 a. Leap year code without error handling
+  file: ly_without.py
 
 b. Leap year code with error handling
+  file: ly_witherrorhandling.py
 
 c. Flowchart in readme.md file
 
